@@ -66,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-https://github.com/KingOfFondness/EvaMaria
+github.com/KingOfFondness/EvaMaria
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
